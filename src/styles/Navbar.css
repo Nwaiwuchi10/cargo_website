@@ -1,0 +1,13 @@
+/*  */
+.n{justify-content: space-around;
+   gap: 160px;
+}
+
+
+@media (max-width:1280px) {
+    .a{
+        display: none;
+        /* gap: 1vh; */
+    }
+    .n{gap: 1vh;}
+}

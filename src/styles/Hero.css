@@ -1,0 +1,549 @@
+.BB {
+    width: 70vh;
+    margin-top: 30px;
+  }
+  
+  /* ////About Section // */
+  
+  .BC {
+    padding-top: 10vh;
+    /* width: 100%; */
+    /* height: auto; */
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    text-align: center;
+    justify-content: space-around;
+    padding-bottom: 7vh;
+    padding-right: 15vh;
+    padding-left: 15vh;
+    gap: 100px;
+  }
+  .BD {
+    /* height: auto; */
+    background-color: orangered;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    padding: 0;
+  }
+  .BE {
+    text-align: justify;
+  }
+  .BG {
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    margin-bottom: 5vh;
+  }
+  .BO {
+    font-weight: bold;
+    font-size: 2.5rem;
+    font-family: Georgia, "Times New Roman", Times, serif;
+  }
+  .BH {
+    width: 10vh;
+    background-color: orangered;
+    border-radius: 50%;
+  }
+  .BI {
+    display: flex;
+    margin-top: 10vh;
+    font-size: x-large;
+    font-weight: bold;
+    gap: 30px;
+  }
+  
+  .CA {
+    padding-right: 15vh;
+    padding-left: 15vh;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 10vh;
+  }
+  .CC {
+    font-weight: bolder;
+    font-size: xx-large;
+    margin-bottom: 30px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+  }
+  .CD {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 5vh;
+  }
+  .CS {
+    display: flex;
+  
+    /* gap: 5vh; */
+  }
+  .CE {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-color: orangered;
+    height: auto;
+    padding: 3vh;
+    margin-bottom: 3vh;
+    /* margin-left: auto;margin-right: auto; */
+  }
+  .CF {
+    color: orangered;
+    text-decoration: none;
+    text-underline-position: below;
+  }
+  
+  .CS {
+    justify-content: space-between;
+  }
+  
+  .DL {
+    background-color: rgba(245, 245, 245, 0.925);
+    display: flex;
+    gap: 10vh;
+    padding-right: 15vh;
+    padding-left: 15vh;
+    text-align: justify;
+    justify-content: space-around;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+  }
+  .DB {
+    /* width: 75%; */
+    margin-top: 0vh;
+  }
+  .DE {
+    color: gray;
+  }
+  .DZ {
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    padding-bottom: 5vh;
+  }
+  .DY {
+    background-color: orangered;
+    margin-top: 5vh;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    padding-left: 4vh;
+    padding-right: 4vh;
+    border-radius: 30px;
+    text-align: center;
+    width: max-content;
+  }
+  .DY:hover {
+    background-color: rgb(13, 13, 59);
+    color: white;
+  }
+  
+  .G {
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    /* width: px;height: 100px; */
+  }
+  .GB {
+    /* width: 60vh; */
+    background-color: rgba(245, 245, 245, 0.699);
+    padding-bottom: 10vh;
+    padding-left: 3vh;
+    text-align: justify;
+    padding-top: 5vh;
+  }
+  .GC {
+    display: flex;
+    /* padding-right: 30vh; */
+    margin-bottom: 3vh;
+    gap: 3vh;
+  }
+  .GY {
+    /* margin-left: 45vh; */
+    left: 0%;
+    color: orangered;
+  }
+  .GX {
+      padding-right: 15vh;
+      padding-left: 15vh;
+      padding-top: 10vh;
+      padding-bottom: 10vh;
+  }
+  .GV{
+      color: gray;
+      padding-right: 10vh;
+  }
+  
+  /* Another sections */
+  
+  .I {
+    background-color: rgba(18, 8, 29, 0.911);
+  
+    padding-top: 13vh;
+    padding-bottom: 2vh;
+    margin-top: 10vh;
+  }
+  .IX {
+    padding-right: 10vh;
+    padding-left: 10vh;
+  }
+  .IB {
+    color: rgb(238, 85, 30);
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-bottom: 5vh;
+  }
+  .IC {
+    display: flex;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: white;
+    gap: 10px;
+  }
+  .ID {
+    margin-top: 10px;
+    border: 2px solid white;
+    border-top: 50%;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    padding-right: 1vh;
+    padding-bottom: 0.5vh;
+    padding-top: 2vh;
+    padding-left: 2vh;
+    margin-right: 10px;
+    color: white;
+  }
+  .IE {
+    color: white;
+    margin-bottom: 15px;
+    font-weight: bold;
+  }
+  
+  .IF {
+    /* height: 8vh; */
+    display: flex;
+    gap: 5px;
+  }
+  .IH {
+    background-color: orangered;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    text-align: center;
+    padding-left: 1vh;
+    padding-right: 2vh;
+    font-weight: bold;
+    color: white;
+    padding-top: 12px;
+    font-size: small;
+    padding-bottom: 1.3vh;
+    /* width: auto; */
+    /* margin-left: auto;margin-right: auto; */
+  }
+  .IG {
+    width: 70%;
+    text-align: center;
+  }
+  .II {
+    display: flex;
+    color: white;
+    padding-right: 10vh;
+    padding-left: 10vh;
+    margin-top: 5vh;
+    justify-content: space-between;
+  }
+  .IJ {
+    display: flex;
+    gap: 5vh;
+  }
+  
+  .CO {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    /* gap: 1vh; */
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+  }
+  .CP {
+    background-color: orangered;
+    display: flex;
+    padding-left: 3vh;
+    padding-right: 3vh;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+    justify-content: center;
+    /* gap: 2vh; */
+  }
+  .CT {
+    background-color: orangered;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 3vh;
+    padding-right: 3vh;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    justify-content: center;
+    /* width: 50vh; */
+  }
+  
+  .CQ {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px;
+  }
+  
+  .About {
+    height: 60vh;
+    width: 100%;
+  }
+  .Abouts {
+    height: 60vh;
+    width: 100%;
+  }
+  
+  /* .O{
+      margin: 30;
+  } */
+  
+  @media (max-width: 480px) {
+      .BC, .CD, .CQ, .CO {
+        display: block; /* Stack elements vertically */
+      }
+      
+      .BO, .DZ, .CC {
+        font-size: large; /* Reduce font sizes */
+      }
+    
+      .DY {
+        width: 100%; /* Make buttons full-width */
+        text-align: center;
+      }
+    
+      .GX, .IX, .CA {
+        padding-left: 2vh;
+        padding-right: 2vh;
+      }
+    }
+    
+  
+  @media (max-width: 834px) {
+    .BB {
+      width: auto;
+    }
+    .BC {
+        display: block;
+    }
+    .BD{
+      font-size: x-large;
+    }
+    .BF {
+      margin-top: 30px;
+    }
+    .BG {
+      font-size: x-large;
+      font-weight: bold;
+    }
+    .BI{padding-bottom: 10vh;}
+    .BO {
+      font-size: x-large;
+    }
+    .CA {
+      padding-right: 3vh;
+      padding-left: 3vh;
+    }
+    .CC {
+      font-size: large;
+      font-weight: bold;
+    }
+    .CD {
+      display: block;
+    }
+    .CG {
+      padding-bottom: 3vh;
+    }
+    .CO {
+      display: block;
+      padding: 0;
+    }
+    .CP {
+      margin-bottom: 10vh;
+    }
+    .CQ {
+      display: block;
+    }
+    .CT {
+      margin-bottom: 10vh;
+    }
+    .DL {
+      display: block;
+      padding-left: 3vh;padding-right: 3vh;
+    }
+    .DZ {
+      font-size: xx-large;
+      font-weight: bold;
+    }
+    .GX {
+      padding-right: 3vh;
+      padding-left: 3vh;
+    }
+    .IX {
+      padding-right: 3vh;
+      padding-left: 3vh;
+    }
+    .II {
+      display: block;
+    }
+    .IJ {
+      margin-right: auto;
+      margin-left: auto;
+      padding-top: 20px;
+      padding-left: 0;
+      padding-right: 0;
+      justify-content: center;
+      text-align: center;
+    }
+    .IZ {
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+  @media (max-width: 1280px) {
+    .BC {
+      padding-right: 15vh;
+      padding-left: 15vh;
+    }
+    /* .BD{width: 200%;} */
+    .CD {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    .CQ {
+      /* display: grid; */
+      grid-template-columns: repeat(2, 1fr);
+      /* gap: 50px; */
+    }
+    .CA {
+      padding-right: 3vh;
+      padding-left: 3vh;
+      padding-bottom: 0vh;
+    }
+    .CO {
+      grid-template-columns: repeat(2, 1fr);
+      justify-content: space-around;
+      /* padding: 0; */
+      gap: 1vh;
+      /* padding-right: 3vh;padding-left: 3vh; */
+    }
+    .CT {
+      margin-bottom: 3vh;
+    }
+    .I {
+      padding-top: 5vh;
+    }
+    .IX {
+      padding-right: 3vh;
+      padding-left: 3vh;
+    }
+  
+    .About {
+      height: 30vh;
+    }
+    .Abouts {
+      height: 30vh;
+    }
+  
+    .BB{
+      width: 45vh;
+    }
+  
+    .BC {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 30px;
+      padding-left: 3vh;
+      padding-right: 3vh;
+      padding-bottom: 2vh;
+    }
+    .BO {
+      font-size: x-large;
+    }
+    .BD {
+      margin-bottom: 5vh;
+      padding-bottom: 1vh;
+    }
+  
+    .BH {
+      width: 5vh;
+      background-color: orangered;
+      border-radius: 50%;
+    }
+    .BI {
+      margin-top: 3vh; 
+      gap: 30px;
+    }
+  
+    .CA{margin-top: -10vh;padding-bottom: 5vh;}
+  
+    .DL {
+      /* display: flex; */
+      /* grid-template-columns: repeat(2, 1fr); */
+      justify-content: space-around;
+      gap: 30px;
+      padding-left: 3vh;
+      padding-right: 3vh;
+      padding-bottom: 3vh;
+    }
+    .DB {
+      margin-top: 0px;
+    }
+    .DZ {
+      font-size: x-large;
+      padding-bottom: 1vh;
+    }
+  
+    .DY {
+      background-color: orangered;
+      margin-top: 2vh;
+      padding-top: 1vh;
+      padding-bottom: 1vh;
+      padding-left: 4vh;
+      padding-right: 4vh;
+      border-radius: 30px;
+      text-align: center;
+      width: max-content;
+    }
+    .DY:hover {
+      background-color: rgb(13, 13, 59);
+      color: white;
+    }
+  
+    .GX{
+      padding-right: 3vh;
+      padding-left: 3vh;
+      padding-top: 7vh;
+      padding-bottom: 0vh;
+    }
+    .GB {
+      /* width: 60vh; */
+      
+      padding-bottom: 1vh;
+      padding-left: 1vh;padding-right: 0vh;
+      text-align: justify;
+      padding-top: 3vh;
+      /* margin-left: auto;margin-right: auto; */
+    }
+    .GV{
+      padding-right: 1vh;
+    }
+    .CE{
+      height: auto;
+      padding: 1.3vh;
+      margin-bottom: 1vh;
+    }
+    /* .CF{
+      margin-top: 40vh;
+      margin-bottom: 56vh;
+    } */
+  }
+  

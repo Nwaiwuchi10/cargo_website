@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a.active p{
+    display: block;
+    background-color: orangered;
+    /* padding: 2vh; */
+}
+a.active p:hover{
+    display: block;
+    background-color: rgb(255, 141, 112);
+    /* padding: 2vh; */
+}
