@@ -1,6 +1,6 @@
-import React from "react";
+
 import truck from "../assets/images/truck.jpg";
-import play from "../assets/images/play.png";
+
 import feature from "../assets/images/feature.jpg";
 // import brown from "../assets/images/brown.jpg";
 // import james from "../assets/images/james.jpg";
