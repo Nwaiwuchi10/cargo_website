@@ -1,4 +1,4 @@
-import  { useState } from "react";
+import { useState } from "react";
 import { FaTruck } from "react-icons/fa";
 import dropdown from "../assets/images/left.png";
 import menu from "../assets/images/menu.png";
@@ -40,7 +40,7 @@ const Navbar = () => {
       <a href="/contacts">
         {" "}
         <button
-          className="w-[20vh] h-12 px-3 text-white flex items-center justify-center  bg-orange-600 hover:bg-blue-600"
+          className="hidden sm:flex w-[20vh] h-12 px-3 text-white items-center justify-center bg-orange-600 hover:bg-blue-600"
           style={{ borderRadius: "10vh" }}
         >
           Contact Us
